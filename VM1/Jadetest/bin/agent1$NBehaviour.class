@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!-- the root web configuration file -->
+<configuration>
+    <!--
+        Using a location directive with a missing path attribute
+        scopes the configuration to the entire machine.  If used in
+        conjunction with allowOverride="false", it can be used to
+        prevent configuration from being altered on the machine
+
+        Administrators that want to restrict permissions granted to
+        web applications should change the default Trust level and ensure
+        that overrides are not allowed
+    -->
+    <system.web>
+        <!--
+            <anonymousIdentification
+                enabled = "false" [true|false]
+                cookieName = ".ASPXANONYMOUS" [String]
+                cookieTimeout = "100000"  [in Minutes][number]
+                cookiePath = "/" [String]
+                cookieRequireSSL = "false" [true|false]
+                cookieSlidingExpiration = "true" [true|false]
+                cookieProtection = "Validation" [None | Validation | Encryption | All]
+                cookie
