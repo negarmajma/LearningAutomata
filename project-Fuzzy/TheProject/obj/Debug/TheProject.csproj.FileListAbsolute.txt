@@ -1,0 +1,13 @@
+C:\Users\Arman.DESKTOP-04F6PPB\Documents\TheProject\TheProject\bin\Debug\TheProject.exe.config
+C:\Users\Arman.DESKTOP-04F6PPB\Documents\TheProject\TheProject\obj\Debug\TheProject.csprojResolveAssemblyReference.cache
+C:\Users\Arman.DESKTOP-04F6PPB\Documents\TheProject\TheProject\obj\Debug\TheProject.ChooseAlpha_Beta.resources
+C:\Users\Arman.DESKTOP-04F6PPB\Documents\TheProject\TheProject\obj\Debug\TheProject.Form1.resources
+C:\Users\Arman.DESKTOP-04F6PPB\Documents\TheProject\TheProject\obj\Debug\TheProject.Properties.Resources.resources
+C:\Users\Arman.DESKTOP-04F6PPB\Documents\TheProject\TheProject\obj\Debug\TheProject.csproj.GenerateResource.Cache
+C:\Users\Arman.DESKTOP-04F6PPB\Documents\TheProject\TheProject\bin\Debug\TheProject.exe
+C:\Users\Arman.DESKTOP-04F6PPB\Documents\TheProject\TheProject\bin\Debug\TheProject.pdb
+C:\Users\Arman.DESKTOP-04F6PPB\Documents\TheProject\TheProject\obj\Debug\TheProject.exe
+C:\Users\Arman.DESKTOP-04F6PPB\Documents\TheProject\TheProject\obj\Debug\TheProject.pdb
+D:\ME\MyPaper\Pacemaker-Agent\Sim\project fazi\TheProject\bin\Debug\TheProject.exe.config
+D:\ME\MyPaper\Pacemaker-Agent\Sim\project fazi\TheProject\obj\Debug\TheProject.exe
+D:\ME\MyPaper\Pacemaker-Agent\Sim\project fazi\TheProject\obj\Debug\TheProject.pdb
